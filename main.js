@@ -23,7 +23,7 @@ yargs.command({
                 type: 'string'
             },
             grade: {
-                describe: "This Is grade List In Add Command",
+                describe: "This Is grade List In Add Command You Can Use This Template To Passed Data In Terminal '30,20,66'",
                 demandOption: true,
             },
             comment: {
